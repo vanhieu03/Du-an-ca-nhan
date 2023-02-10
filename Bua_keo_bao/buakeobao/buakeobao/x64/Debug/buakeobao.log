@@ -1,0 +1,3 @@
+﻿  buakeobao.cpp
+D:\du_an\Du-an-ca-nhan\Bua_keo_bao\buakeobao\buakeobao\buakeobao.cpp(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  buakeobao.vcxproj -> D:\du_an\Du-an-ca-nhan\Bua_keo_bao\buakeobao\x64\Debug\buakeobao.exe
